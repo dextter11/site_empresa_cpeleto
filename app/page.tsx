@@ -78,11 +78,9 @@ ${formData.message}
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
-<<<<<<< HEAD
-      <title>CP ELETRONICA</title>
-=======
+    <header />
       <title>CP Eletronica</title>
->>>>>>> 92290461a8838f998da9e8d848a75e1bf5eaa1d2
+
   <link rel="icon" type="image/png" href="favicon.png"></link>
       <header className="bg-white/95 backdrop-blur-sm shadow-sm fixed w-full top-0 z-50 border-b border-gray-100">
         <div className="max-w-6xl mx-auto px-4 py-4">
